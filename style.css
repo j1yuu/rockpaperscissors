@@ -46,6 +46,13 @@ body {
     font-size: 6rem;
 }
 
+.botChoice {
+    margin: 2rem auto 1rem;
+    text-align: center;
+    font-size: .8rem;
+    font-family: 'Press Start 2P';
+}
+
 .controllers {
     display: flex;
     align-items: center;
